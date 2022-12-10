@@ -17,4 +17,4 @@ export TEXTDOMAIN=biglinux-calamares-wmaker
 
 
 DESKTOP_NAME_DESC=$"Window Maker"
-DESKTOP_INFO_DESC=$"DESCREVA EM POUCAS PALAVRAS O DESKTOP WMAKER."
+DESKTOP_INFO_DESC=$"Gerenciador de janela criado pelo brasileiro Alfredo Kojima em 1998."
