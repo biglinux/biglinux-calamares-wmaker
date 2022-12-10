@@ -19,5 +19,5 @@ msgstr ""
 msgid "Window Maker"
 msgstr "Výrobce oken"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP WMAKER."
-msgstr "POPIŠTE V KOSTCE PRACOVNÍ PLOCHU WMAKER."
+msgid "Gerenciador de janela criado pelo brasileiro Alfredo Kojima em 1998."
+msgstr "Správce oken vytvořený Brazilcem Alfredem Kojimou v roce 1998."

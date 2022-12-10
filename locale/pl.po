@@ -19,5 +19,5 @@ msgstr ""
 msgid "Window Maker"
 msgstr "Kreator okien"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP WMAKER."
-msgstr "OPISZ W SKRÓCIE PULPIT WMAKER."
+msgid "Gerenciador de janela criado pelo brasileiro Alfredo Kojima em 1998."
+msgstr "Menedżer okien stworzony przez Brazylijczyka Alfredo Kojimę w 1998 roku."

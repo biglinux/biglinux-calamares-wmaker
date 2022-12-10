@@ -19,5 +19,5 @@ msgstr ""
 msgid "Window Maker"
 msgstr "יוצר חלונות"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP WMAKER."
-msgstr "תאר על קצה המזלג את שולחן העבודה של WMAKER."
+msgid "Gerenciador de janela criado pelo brasileiro Alfredo Kojima em 1998."
+msgstr "מנהל חלונות שנוצר על ידי אלפרדו קוג'ימה הברזילאי בשנת 1998."

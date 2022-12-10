@@ -19,5 +19,5 @@ msgstr ""
 msgid "Window Maker"
 msgstr "Gluggaframleiðandi"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP WMAKER."
-msgstr "LÝSTU Í HNOTSKURN WMAKER DESKTOP."
+msgid "Gerenciador de janela criado pelo brasileiro Alfredo Kojima em 1998."
+msgstr "Gluggastjóri búinn til af Brasilíumanninum Alfredo Kojima árið 1998."

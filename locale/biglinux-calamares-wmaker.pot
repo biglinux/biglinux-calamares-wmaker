@@ -17,5 +17,5 @@ msgstr  "Project-Id-Version: biglinux-calamares-wmaker\n"
 msgid   "Window Maker"
 msgstr  ""
 
-msgid   "DESCREVA EM POUCAS PALAVRAS O DESKTOP WMAKER."
+msgid   "Gerenciador de janela criado pelo brasileiro Alfredo Kojima em 1998."
 msgstr  ""

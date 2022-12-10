@@ -19,5 +19,5 @@ msgstr ""
 msgid "Window Maker"
 msgstr "Ikkunoiden luonti"
 
-msgid "DESCREVA EM POUCAS PALAVRAS O DESKTOP WMAKER."
-msgstr "KUVAILE PÄHKINÄNKUORESSA WMAKER-TYÖPÖYTÄÄ."
+msgid "Gerenciador de janela criado pelo brasileiro Alfredo Kojima em 1998."
+msgstr "Brasilialaisen Alfredo Kojiman vuonna 1998 luoma ikkunanhallinta."
