@@ -33,3 +33,4 @@ ksystemlog
 kmines
 ksudoku
 kpat
+conky
