@@ -33,3 +33,4 @@ kmines
 ksudoku
 kpat
 conky
+wmclock
