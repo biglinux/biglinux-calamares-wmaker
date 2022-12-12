@@ -1,6 +1,5 @@
 windowmaker
 lightdm
-lightdm-gtk-greeter
 lightdm-webkit2-greeter
 biglinux-skel-wmaker
 polkit
