@@ -34,3 +34,6 @@ kpat
 conky
 wmclock
 arandr
+notification-daemon
+polybar
+rofi
