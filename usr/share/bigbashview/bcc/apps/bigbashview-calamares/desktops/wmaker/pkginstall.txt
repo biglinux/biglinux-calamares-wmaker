@@ -33,3 +33,4 @@ ksudoku
 kpat
 conky
 wmclock
+arandr
