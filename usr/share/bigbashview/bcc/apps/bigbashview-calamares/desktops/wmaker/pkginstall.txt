@@ -31,8 +31,9 @@ ksystemlog
 kmines
 ksudoku
 kpat
-conky
 wmclock
+wmsystray
+wmix
 arandr
 notification-daemon
 polybar
