@@ -38,3 +38,4 @@ arandr
 notification-daemon
 polybar
 rofi
+ark
