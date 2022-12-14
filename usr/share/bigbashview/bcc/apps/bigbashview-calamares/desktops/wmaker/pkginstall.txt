@@ -27,3 +27,4 @@ arandr
 notification-daemon
 pamac-tray-icon-plasma
 ark
+xorg-xkill
