@@ -13,7 +13,7 @@ xterm
 helvum
 kate
 kcalc
-xorg-fonts-misc-otb
+xorg-fonts-cyrillic
 wmclock
 wmsystemtray
 wmix
