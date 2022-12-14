@@ -9,6 +9,7 @@ imake
 brave-browser
 firefox
 dolphin
+libreoffice-fresh
 xterm
 helvum
 kate
