@@ -34,3 +34,7 @@ bluedevil
 manjaro-settings-manager
 gwenview
 spectacle
+clipit
+volumeicon
+hardinfo-gtk3
+okular
