@@ -9,6 +9,7 @@ imake
 brave-browser
 firefox
 dolphin
+rootactions-servicemenu-biglinux
 libreoffice-fresh
 xterm
 helvum
@@ -23,7 +24,7 @@ wmix
 wmmemload
 wmnd
 wmautomenu-biglinux
-arandr
+lxrandr
 notification-daemon
 pamac-tray-icon-plasma
 ark
