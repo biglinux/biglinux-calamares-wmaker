@@ -12,6 +12,7 @@ dolphin
 rootactions-servicemenu-biglinux
 libreoffice-fresh
 xterm
+konsole
 helvum
 kate
 kcalc
@@ -29,3 +30,4 @@ notification-daemon
 pamac-tray-icon-plasma
 ark
 xorg-xkill
+bluedevil
