@@ -32,3 +32,5 @@ ark
 xorg-xkill
 bluedevil
 manjaro-settings-manager
+gwenview
+spectacle
