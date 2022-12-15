@@ -31,3 +31,4 @@ pamac-tray-icon-plasma
 ark
 xorg-xkill
 bluedevil
+manjaro-settings-manager
