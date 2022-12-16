@@ -1,6 +1,7 @@
 windowmaker
 lightdm
 lightdm-slick-biglinux-greeter
+lightdm-settings
 biglinux-skel-wmaker
 polkit
 polkit-kde-agent
