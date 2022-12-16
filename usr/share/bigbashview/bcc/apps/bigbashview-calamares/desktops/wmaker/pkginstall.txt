@@ -1,6 +1,6 @@
 windowmaker
 lightdm
-lightdm-webkit2-greeter
+lightdm-slick-biglinux-greeter
 biglinux-skel-wmaker
 polkit
 polkit-kde-agent
@@ -38,3 +38,7 @@ clipit
 volumeicon
 hardinfo-gtk3
 okular
+xfce4-settings
+xfce4-appfinder
+xfce4-notifyd
+xfce4-taskmanager
