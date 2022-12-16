@@ -1,6 +1,7 @@
 windowmaker
 lightdm
-lightdm-slick-greeter
+lightdm-gtk-greeter
+lightdm-slick-biglinux-greeter
 lightdm-settings
 biglinux-skel-wmaker
 polkit
