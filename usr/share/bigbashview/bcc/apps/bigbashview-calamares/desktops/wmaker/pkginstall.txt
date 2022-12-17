@@ -1,8 +1,9 @@
 windowmaker
 lightdm
-lightdm-gtk-greeter
 biglinux-skel-wmaker
 numlockx
+onboard
+mousetweaks
 lightdm-slick-biglinux-greeter
 polkit
 polkit-kde-agent
