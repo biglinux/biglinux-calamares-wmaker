@@ -2,6 +2,8 @@ windowmaker
 lightdm
 lightdm-gtk-greeter
 biglinux-skel-wmaker
+numlockx
+lightdm-slick-biglinux-greeter
 polkit
 polkit-kde-agent
 autoconf
