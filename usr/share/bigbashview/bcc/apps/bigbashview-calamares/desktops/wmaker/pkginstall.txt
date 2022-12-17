@@ -1,6 +1,7 @@
 windowmaker
 lightdm
 lightdm-gtk-greeter
+qt5ct
 biglinux-skel-wmaker
 numlockx
 onboard
