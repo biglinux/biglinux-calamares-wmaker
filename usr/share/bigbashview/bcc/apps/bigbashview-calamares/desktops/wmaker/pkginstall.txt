@@ -1,6 +1,7 @@
 windowmaker
-lightdm
-lightdm-gtk-greeter
+lxdm
+lxdm-biglinux-theme
+tango-icon-theme
 qt5ct
 biglinux-skel-wmaker
 numlockx
