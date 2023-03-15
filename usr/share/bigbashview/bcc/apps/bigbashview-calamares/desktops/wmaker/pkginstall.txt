@@ -12,7 +12,6 @@ polkit-kde-agent
 autoconf
 imake
 brave-browser
-firefox
 dolphin
 rootactions-servicemenu-biglinux
 libreoffice-fresh
