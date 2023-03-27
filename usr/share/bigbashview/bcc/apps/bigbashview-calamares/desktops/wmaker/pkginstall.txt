@@ -46,3 +46,4 @@ xfce4-settings
 xfce4-appfinder
 xfce4-notifyd
 xfce4-taskmanager
+biglinux-settings
