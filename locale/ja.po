@@ -16,8 +16,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: attranslate\n"
 
-msgid "Window Maker"
-msgstr "ウィンドウメーカー"
-
 msgid "Gerenciador de janela criado pelo brasileiro Alfredo Kojima em 1998."
 msgstr "1998年にブラジルのアルフレド小島によって作成されたウィンドウマネージャー。"
